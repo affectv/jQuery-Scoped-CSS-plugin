@@ -1,0 +1,27 @@
+{
+  "name": "jquery-scoped-css-plugin",
+  "version": "1.0.0",
+  "description": "jQuery-based polyfill for \"style scoped\"",
+  "main": "jquery.scoped.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benelliott/jQuery-Scoped-CSS-plugin.git"
+  },
+  "keywords": [
+    "jquery",
+    "style",
+    "scoped",
+    "polyfill",
+    "css",
+    "web"
+  ],
+  "author": "thingsinjars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benelliott/jQuery-Scoped-CSS-plugin/issues"
+  },
+  "homepage": "https://github.com/benelliott/jQuery-Scoped-CSS-plugin#readme"
+}
